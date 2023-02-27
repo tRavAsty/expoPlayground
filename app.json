@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d66dfbea-b6aa-497c-ad27-993e4432fdf2"
+      }
+    },
+    "owner": "ottotravasty"
   }
 }
